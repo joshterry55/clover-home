@@ -36,9 +36,7 @@
     "url-loader": "^0.5.7",
     "babel-preset-react": "^6.5.0",
     "babel-preset-stage-0": "^6.5.0",
-    "webpack-dev-middleware": "1.7.0"
-  },
-  "devDependencies": {
+    "webpack-dev-middleware": "1.7.0",
     "babel-jest": "^18.0.0",
     "enzyme": "^2.7.0",
     "jest": "^18.1.0",
@@ -51,5 +49,8 @@
     "webpack-dashboard": "^0.2.0",
     "webpack-dev-server": "^1.9.0",
     "yarn": "^0.20.3"
+  },
+  "devDependencies": {
+
   }
 }
